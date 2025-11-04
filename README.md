@@ -41,10 +41,11 @@
 ### Pre-requisites:
 - Note
      1. EKS Cluster needs to be up and running. Setup EKS cluster in AWS cloud.
+          - https://github.com/kily-king/Setup-monitoring-on-EKS-Cluster-using-Prometheus-and-Grafana/blob/main/Create-Amazon-EKS-Cluster-using-eksctl(CLI-with-IAM-Role).md
      2. Install Helm3
      3. EC2 instance to access EKS cluster
 
-# Create Amazon EKS cluster by eksctl | How to create EKS cluster in AWS cloud using eksctl | Create EKS Cluster in command line using IAM Role
+# Create Amazon EKS Cluster using eksctl (CLI with IAM Role)
 
 #### What is Amazon EKS
 - Amazon EKS is a fully managed container orchestration service. EKS allows you to quickly deploy a production ready Kubernetes cluster in AWS, deploy and manage containerized applications more easily with a fully managed Kubernetes service.
